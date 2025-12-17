@@ -7,3 +7,5 @@ This repository contains scripts for assignment 2 of the Fundamentals of BIM cou
 - Script for intantiating IfcPropertySet and assigning it to the new footing element.
 
 ![A simple yet elegant shed, now with IfcFooting Element](house-with-footing.png)
+
+**Sim-Sala-Bim!**
